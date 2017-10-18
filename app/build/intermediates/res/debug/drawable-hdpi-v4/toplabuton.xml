@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/toplahover" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/topla"></item>  
+
+</selector>
+<!-- From: file:/C:/Users/Grundig-pc/AndroidStudioProjects/Esra_Sinav/app/src/main/res/drawable-hdpi/toplabuton.xml -->
